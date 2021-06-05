@@ -1,10 +1,7 @@
 body{
     background-repeat:repeat-y;
     height: 1000px;
-    margin-top: 10%;
-    margin-bottom: 10%;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-bottom: 10%
 }
 h1{
     text-align: center;
@@ -20,5 +17,20 @@ h1{
 }
 .aboutme{
     font-size: x-large;
-    padding: 5%;
+    margin-right: 5%;
+
+
+}
+img{
+    height: 500px;
+    width: 700px;
+    text-align: center;
+    background-color: grey;
+    margin-top: 0%;
+}
+.photo{
+    background-color: grey;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
 }
