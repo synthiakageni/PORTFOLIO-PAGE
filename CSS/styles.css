@@ -1,7 +1,24 @@
 body{
     background-repeat:repeat-y;
     height: 1000px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 h1{
     text-align: center;
+}
+.hobbies{
+    font-size: x-large;
+    padding: 5%;
+}
+.projects{
+    font-size: x-large;
+    padding: 5%;
+
+}
+.aboutme{
+    font-size: x-large;
+    padding: 5%;
 }
