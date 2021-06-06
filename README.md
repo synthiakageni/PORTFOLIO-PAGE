@@ -3,7 +3,7 @@
 {This is about me.Through it you get to know me better.my education background and even my hobbies }
 ## Setup/Installation Requirements
 * Clone the repo {git clone https://github.com/synthiakageni/PORTFOLIO-PAGE.git}
-## [Live link](https://synthiakageni.github.io/my-portfolio/)
+## [Live link]( https://synthiakageni.github.io/PORTFOLIO-PAGE/)
 ## Known Bugs
 There are no known bugs
 ## Technologies Used
