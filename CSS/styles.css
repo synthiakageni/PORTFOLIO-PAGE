@@ -1,7 +1,8 @@
 body{
-    background-repeat:repeat-y;
+
     height: 1000px;
     margin-bottom: 10%
+    
 }
 h1{
     text-align: center;
@@ -9,28 +10,36 @@ h1{
 .hobbies{
     font-size: x-large;
     padding: 5%;
+    color: red;
 }
 .projects{
     font-size: x-large;
     padding: 5%;
+    color: red;
 
 }
 .aboutme{
     font-size: x-large;
-    margin-right: 5%;
+    
+    color: red;
+
+    background-color: black;
 
 
 }
 img{
-    height: 500px;
-    width: 700px;
+    height: 400px;
+    width: 500px;
     text-align: center;
     background-color: grey;
     margin-top: 0%;
+    float: left;
+    
+    
 }
 .photo{
-    background-color: grey;
-    margin-top: 0%;
-    margin-left: 0%;
-    margin-right: 0%;
+    background-color:gray;
+
+
 }
+
