@@ -1,3 +1,4 @@
+## MY PORTFOLIO
 #### Author: **synthia kageni**
 ## Description
 This is my first project at Moringa school.It is my porfolio landing page.
@@ -11,14 +12,14 @@ To run the app in your machine or server,use the following steps:
 ## Known Bugs
 There are no known bugs
 ## features:
-About me section
-My hobbies
-List of previous projects
+* About me section
+* My hobbies
+* List of previous projects
 ## Technologies Used
-html
-css
+* html
+* css
 ## Support and contact details
-{synthiakageni@gmail.com}
+synthiakageni@gmail.com
 ### License
 This is under the [MIT](LICENSE) license
 Copyright (c) {2021} **{synthia kageni**
