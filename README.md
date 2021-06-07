@@ -1,11 +1,19 @@
-#### By **{synthia kageni}**
+#### Author: **synthia kageni**
 ## Description
-{This is about me.Through it you get to know me better.my education background and even my hobbies }
+This is my first project at Moringa school.It is my porfolio landing page.
 ## Setup/Installation Requirements
-* Clone the repo {git clone https://github.com/synthiakageni/PORTFOLIO-PAGE.git}
+To run the app in your machine or server,use the following steps:
+### prerequisite
+1.A text editor preferably visual studio code.
+*  git clone the repo git clone https://github.com/synthiakageni/PORTFOLIO-PAGE.git
+*  cd PORTFOLIO & code .
 ## [Live link]( https://synthiakageni.github.io/PORTFOLIO-PAGE/)
 ## Known Bugs
 There are no known bugs
+## features:
+About me section
+My hobbies
+List of previous projects
 ## Technologies Used
 html
 css
